@@ -28,4 +28,11 @@ Code Explain
         }
     ?>
 
-  
+<br>
+According to this above file, <br>
+we have to make caonnection with database we have to use <br>
+1. Server Name
+2. Server User
+3. Server Password
+4. Database Name
+
