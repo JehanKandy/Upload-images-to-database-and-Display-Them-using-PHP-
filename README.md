@@ -224,4 +224,12 @@ that's why I not going to explain the index.php code
 *********************************************************************
 
 
+Thnank you for read this <br>
+and I hope you got something using my code<br>
+
+
+**********************************************************************
+
+DEVELOPER : JEHANKANDY
+
 
