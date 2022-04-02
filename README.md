@@ -8,3 +8,5 @@ with index.php and config.php files
 <br><br>
 otherwise it will not working<br>
 ********************************************
+<br><br>
+Code Explain
