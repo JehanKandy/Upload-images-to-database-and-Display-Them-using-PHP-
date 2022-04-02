@@ -36,3 +36,14 @@ we have to make caonnection with database we have to use <br>
 3. Server Password <br>
 4. Database Name <br>
 
+<br><br>
+in order to xampp default server Name, User, Password are
+<br>
+Server --> Localhost<br>
+User --> root<br>
+<br>
+and there is no password<br>
+
+if you using password you have to mention it in password area
+<br><br>
+
