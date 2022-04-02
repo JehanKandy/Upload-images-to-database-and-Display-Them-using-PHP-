@@ -45,10 +45,17 @@ User --> root<br>
 and there is no password<br>
 
 if you using password you have to mention it in password area
+<br>
+but database name will change according to your database<br>
 <br><br>
 
 and in this code I montion like follwing
     
+        $con = mysqli_connect($server,$user,$pass,$db);
+
         if(!$con){
             die("Connecting Lost...!".mysqli_connect_error());
         }
+   
+In here I make a veriable and connect with server
+
