@@ -60,6 +60,8 @@ and in this code I montion like follwing
 In here I make a veriable and connect with server named $con
 <br>
 and then I velidate connection using if statement,
+
+
          if(!$con){
             die("Connecting Lost...!".mysqli_connect_error());
         }
