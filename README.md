@@ -12,6 +12,9 @@ otherwise it will not working<br>
 Code Explain
 <br><br>
 
+<b>config.php file</b>
+<br><br>
+
     <?php
         $server = "localhost";
         $user  = "root";
