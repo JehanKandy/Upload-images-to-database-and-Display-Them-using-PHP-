@@ -47,3 +47,8 @@ and there is no password<br>
 if you using password you have to mention it in password area
 <br><br>
 
+and in this code I montion like follwing
+    
+        if(!$con){
+            die("Connecting Lost...!".mysqli_connect_error());
+        }
