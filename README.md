@@ -57,5 +57,5 @@ and in this code I montion like follwing
             die("Connecting Lost...!".mysqli_connect_error());
         }
    
-In here I make a veriable and connect with server
+In here I make a veriable and connect with server named $con
 
